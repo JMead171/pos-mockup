@@ -38,7 +38,7 @@ JavaScript, HTML5, CSS, jQuery and Bootstrap.
 
 
 ## Screen Shot
-  ![image](https://user-images.githubusercontent.com/64744763/108269572-2e147080-713c-11eb-9958-30730d96ed66.png)
+  ![image](https://user-images.githubusercontent.com/64744763/108270430-6ff1e680-713d-11eb-857c-be68d11b60ce.png)
 
 
 ## Questions
